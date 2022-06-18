@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Parichay Pothepalli</h1>
-<h3 align="center">An AI/ML enthusiast who is passionate about public speaking and representation.</h3>
 
-- 🌱 I’m currently learning and implementing **Tensorflow, Speech analyzer, Time Series Data**
+
+<h1 align="center">Hi 👋, I'm Parichay Pothepalli</h1>
+<h3 align="center">An AI/ML enthusiast who is passionate about public speaking, representation and Climate Crisis.</h3>
+
+- 🌱 I’m currently working as a Senior Technology Intern at **Sears Deep Learning Centre**
+
+- 🧑🏼‍🎓 Pursuing my Masters in Business Analytics at **University of Texas-Dallas** and actively looking for Full-Time roles as a Data Scientist.
 
 - 📝 I regularly write articles on [https://medium.com/@parichay2406](https://medium.com/@parichay2406)
 
