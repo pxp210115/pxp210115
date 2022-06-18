@@ -1,48 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Parichay Pothepalli</h1>
+<h3 align="center">An AI/ML enthusiast who is passionate about public speaking and representation.</h3>
 
-<!--
-**pxp210115/pxp210115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning and implementing **Tensorflow, Speech analyzer, Time Series Data**
 
-Here are some ideas to get you started:
+- 📝 I regularly write articles on [https://medium.com/@parichay2406](https://medium.com/@parichay2406)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **AI, ML, A/B Testing, SQL, Python**
 
-Parichay is a serial experimenter when it comes to guiding and deploying robust Deep Learning/ML frameworks in the Computer Vision :eyes:, Natural Language Processing :speech_balloon: and Time Series Forecasting :hourglass: space.
+- 📫 How to reach me **pxp210115@utdallas.edu**
 
-He has published two research papers on Deep Learning/ML in International Journals:-
-1) Exploratory Data Analysis and Topic modeling on TED Talks.[ Sept 2020- International Journal of
-Scientific Research. Edition 9.Vol: IX (Issue: IX).
-2) Stock Market Prediction using Econometric models and Neural Networks.[ Feb 2021- GJRA
-Global Journal for Research Analysis] Volume-10, Issue-02
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/parichay-pothepalli-5a2869141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parichay-pothepalli-5a2869141/" height="30" width="40" /></a>
+</p>
 
-He is a true believer of "When in doubt, code it out!!".. The worst that could happen is getting the code wrong.. which teaches him what not to do for the next experiment he's cooking..👨‍🍳
-
-His toolkit (🛠) includes:-
-
-1) Technical Expertise ( 6 years and on-going):- 
-Python - For the everyday chores ( ML and Object Oriented Programming)
-Tensorflow - For robust experimentation with (ANN, CNN, RNN, LSTM, GAN's)
-SQL - For becoming "One with the data"
-Java - For the additional help with Data Structures and Algorithms
-Tableau - For making a clearer statement of real- time insights
-
-2) Business Understanding ( 3 years and on-going..):- 
-Consulting- Creating custom solutions for end-to end Business Transformation.
-* Business Analyst at Antelopus Energy
-* Consultant at Protiviti
-* Consultant at Kearney
-* Intern at Hewlett Packard
-
-3) Globe Trotter ( Appreciating Diversity and Culture from more than 20 countries and on-going..):-
-* Summer Management course at Stanford University, San Francisco
-* Big Data Analytics and Artificial Neural Networks at NUS,Singapore 
-* Model United Nations conference at Budapest,Hungary.
-* Backpacking in the other 17 taught him "survival of the fittest.."
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
