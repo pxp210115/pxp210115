@@ -1,9 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Parichay Pothepalli</h1>
-<h3 align="center">An AI/ML enthusiast who is passionate about public speaking, representation and Climate Crisis.</h3>
-
-- 🌱 I’m currently working as a Senior Technology Intern at **Sears Deep Learning Centre**
+<h3 align="center">An AI/ML enthusiast looking to make 2023 the Git year...</h3>
 
 - 🧑🏼‍🎓 Pursuing my Masters in Business Analytics at **University of Texas-Dallas** and actively looking for Full-Time roles as a Data Scientist.
 
